@@ -31,11 +31,10 @@ img + figcaption {
 
 #details {
   display: inline-block;
-}
-
-#details ~ div {
   float: left;
 }
+
+
 
 div {
   background: red;
