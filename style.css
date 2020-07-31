@@ -31,7 +31,7 @@ img ~ figcaption {
 }
 
 #details {
-  display: inline;
+
   column-count: 4;
 }
 
@@ -41,4 +41,5 @@ div {
   background: red;
   text-align: center;
   width: 25%;
+    display: inline;
 }
