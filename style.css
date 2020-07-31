@@ -9,7 +9,6 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
-  align: center;
 }
 
 nav > a {
@@ -18,7 +17,7 @@ nav > a {
   align-content: center;
 }
 
-img + figcaption {
+img ~ figcaption {
   text-align: center;
   font-size: 8pt;
 }
