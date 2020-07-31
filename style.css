@@ -17,12 +17,12 @@ nav > a {
   align-content: center;
 }
 
-figcaption {
+img ~ figcaption {
   text-align: center;
   font-size: 8pt;
 }
 
-#featured-property ~ p {
+#featured-property + p {
   color: yellow;
   /*width: 800px;*/
   /*display: block;*/
