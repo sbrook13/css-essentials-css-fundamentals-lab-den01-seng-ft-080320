@@ -32,6 +32,7 @@ img ~ figcaption {
 
 #details {
   display: inline;
+  column-count: 4;
 }
 
 
