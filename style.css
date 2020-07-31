@@ -22,11 +22,12 @@ img + figcaption {
   font-size: 8pt;
 }
 
-#featured-property + p {
-  width: 800px;
-  display: block;
-  text-align: center;
-  margin: auto;
+#featured-property ~ p {
+  color: yellow;
+  /*width: 800px;*/
+  /*display: block;*/
+  /*text-align: center;*/
+  /*margin: auto;*/
 }
 
 #details {
